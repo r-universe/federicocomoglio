@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "dupiR"]
+	path = dupiR
+	url = https://github.com/federicocomoglio/dupir
+[submodule "wavClusteR"]
+	path = wavClusteR
+	url = https://git.bioconductor.org/packages/wavClusteR
