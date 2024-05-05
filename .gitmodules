@@ -5,6 +5,3 @@
 [submodule "dupiR"]
 	path = dupiR
 	url = https://github.com/federicocomoglio/dupir
-[submodule "wavClusteR"]
-	path = wavClusteR
-	url = https://git.bioconductor.org/packages/wavClusteR
